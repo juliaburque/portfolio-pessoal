@@ -16,8 +16,8 @@
 O Projeto cover é um dos melhores sites desenvolvidos atualmente, tem o intuito de ajudar e mostrar ao úsuario variacões capas para que seja usado em seus trabalhos.
 
 ## Introdução
-1-Site que desenvolve capas para serem usadas em trabalhos  
-2-O site foi criado com o intuito de ajudar os usuários com capas na realização de trabalhos
+* Site que desenvolve capas para serem usadas em trabalhos  
+* O site foi criado com o intuito de ajudar os usuários com capas na realização de trabalhos
 
 ## Funcionalidades
 Ao acessar o site o usuário ira para a página inicial, lá ira aparecer várias funções tais como:  
